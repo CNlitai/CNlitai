@@ -1,6 +1,6 @@
 ## Hi there 👋
-### I am Li Tai, front-end engineering and Full stack development. 🤯
-#### Focus on internal process efficiency, CI/CD and monitoring and Data Embedding
+### I am Li Tai, FE develop engineer and Full stack development. 🤯
+#### Focus on internal process efficiency, CI/CD devops and monitoring and Data Embedding
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CNlitai&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
   #### 🔧 technology stack
